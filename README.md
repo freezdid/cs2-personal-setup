@@ -20,5 +20,10 @@ Ce document décrit ma configuration personnalisée pour Counter-Strike 2. Il in
 
 ## Bonus [mon viseur CS2 custom]
 
+<div>
+<a href="https://imgur.com/7svxGJQ"><img src="https://i.imgur.com/7svxGJQ.gif" title="source: imgur.com" width="800" height="600" /></a>
+</div>
+
+
 ## Auteurs
 * **[`FREEZDID COPYRIGHT`]:** Créateur de la configuration.
