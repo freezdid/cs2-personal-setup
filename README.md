@@ -18,5 +18,7 @@ Ce document décrit ma configuration personnalisée pour Counter-Strike 2. Il in
 * **Option de lancement : `-freq 240 -high -vulkan +exec autoexec.cfg`
 * **Lancer le jeu:** Démarrez Counter-Strike 2 depuis Steam
 
+## Bonus [mon viseur CS2 custom]
+
 ## Auteurs
 * **[`FREEZDID COPYRIGHT`]:** Créateur de la configuration.
